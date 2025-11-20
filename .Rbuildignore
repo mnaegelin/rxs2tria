@@ -1,7 +1,13 @@
 ^renv$
 ^renv\.lock$
-^rxs2xcell\.Rproj$
+^.*\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
 ^LICENSE\.md$
 ^explorations$
+^out$
+^archive$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$

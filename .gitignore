@@ -8,3 +8,5 @@ archive/*
 explorations/*
 out/*
 main.R
+docs
+inst/doc

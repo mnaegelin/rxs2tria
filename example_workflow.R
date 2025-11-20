@@ -3,7 +3,7 @@
 library(devtools)
 load_all()
 
-#remotes::install_github('mnaegelin/rxs2tria')
+#remotes::install_github('tria-db/rxs2tria')
 #library(rxs2tria)
 
 ################################################################################

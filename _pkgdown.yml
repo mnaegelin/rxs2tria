@@ -1,0 +1,4 @@
+url: https://tria-db.github.io/rxs2tria/
+template:
+  bootstrap: 5
+  bootswatch: cerulean

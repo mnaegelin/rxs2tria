@@ -1,0 +1,22 @@
+---
+title: "rxs2tria"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{rxs2tria}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Example workflow ...
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(rxs2tria)
+```
